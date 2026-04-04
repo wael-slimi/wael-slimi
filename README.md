@@ -2,15 +2,15 @@
 ![Visitors](https://komarev.com/ghpvc/?username=wael-slimi&color=3178C6&style=for-the-badge)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3178C6&width=700&lines=Hi+I'm+Wael+Slimi+👋;Full-Stack+%26+Bioinformatics+Engineer;Healthcare+Tech+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3178C6&width=700&lines=Hi+I'm+Wael+Slimi+👋;Software+Engineering+Student)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm passionate about building scalable solutions that bridge healthcare and technology.
+Welcome to my GitHub profile! I'm passionate about building scalable and innovative software solutions.
 
 ---
 
 ## 🚀 About Me
 
-I'm a software engineer specializing in full-stack development and bioinformatics. With expertise in both modern web technologies and computational biology, I focus on creating innovative solutions for healthcare and medical data analysis. Currently, I'm leveraging technology to improve patient care through digital health platforms and automated biomedical research pipelines.
+I'm a software engineering student with a passion for building clean, efficient, and impactful applications. I enjoy working on real-world projects that challenge me to grow and apply my skills across different technologies.
 
 ---
 
