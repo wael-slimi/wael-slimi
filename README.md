@@ -4,8 +4,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3178C6&width=700&lines=Hi+I'm+Wael+Slimi+👋;Full-Stack+%26+Bioinformatics+Engineer;Healthcare+Tech+Innovator)](https://git.io/typing-svg)
 
-**Full-Stack Developer | Bioinformatics Engineer | Healthcare Technology Innovator**
-
 Welcome to my GitHub profile! I'm passionate about building scalable solutions that bridge healthcare and technology.
 
 ---
