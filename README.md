@@ -67,10 +67,7 @@ Predictive modeling system for financial market analysis.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=wael-slimi&theme=tokyonight&row=1&no-frame=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wael-slimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-slimi&layout=compact&theme=tokyonight" height="165"/>
-</p>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wael-slimi&theme=tokyonight&hide_border=true)
 
