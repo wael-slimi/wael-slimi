@@ -63,15 +63,6 @@ Predictive modeling system for financial market analysis.
 
 ---
 
-## 📊 GitHub Statistics
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=wael-slimi&theme=tokyonight&row=1&no-frame=true)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=wael-slimi&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌱 Currently Learning & Exploring
 
