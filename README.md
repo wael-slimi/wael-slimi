@@ -4,8 +4,8 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3178C6&width=700&lines=Hi+I'm+Wael+Slimi+👋;Software+Engineering+Student)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm passionate about building scalable and innovative software solutions.
-
+Welcome to my GitHub profile! I'm AI Software Engineer specializing in machine learning systems, anomaly detection, and backend automation.
+I build production-ready AI tools for predictive maintenance, security scanning, and data-driven systems.
 ---
 
 ## 🚀 About Me
