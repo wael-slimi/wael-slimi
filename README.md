@@ -40,6 +40,12 @@ Full-stack healthcare platform for digitizing medical interactions with secure d
 - **Key Features:** Medical dossier management, clinical repository, role-based security, dynamic dashboard
 - **Status:** 🟡 Active Development
 
+### 🤖 [SecretHunter – AI-Powered Secret Scanner](https://github.com/wael-slimi/secrethunter)
+CLI tool that scans repositories for leaked API keys, tokens, and secrets with AI-powered false positive filtering.
+- **Tech Stack:** Go, OpenAI API, Anthropic, Ollama
+- **Key Features:** 175+ detection patterns, CVSS risk analysis, key validation, multi-AI support
+- **Status:** 🟢 Production Ready
+
 ### 🧬 [Neurology Variant Pipeline](https://github.com/wael-slimi/neurology-variant-pipeline)
 Automated bioinformatics pipeline for annotating and filtering neurological disease-related variants from VCF files.
 - **Tech Stack:** Nextflow, Roff, Docker
